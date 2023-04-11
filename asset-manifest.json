@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Stuter_react/static/css/main.c8a26bd2.css",
+    "main.js": "/Stuter_react/static/js/main.27955edc.js",
+    "index.html": "/Stuter_react/index.html",
+    "main.c8a26bd2.css.map": "/Stuter_react/static/css/main.c8a26bd2.css.map",
+    "main.27955edc.js.map": "/Stuter_react/static/js/main.27955edc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8a26bd2.css",
+    "static/js/main.27955edc.js"
+  ]
+}
